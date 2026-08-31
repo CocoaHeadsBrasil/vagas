@@ -4,6 +4,8 @@ Espaço para a divulgação de vagas para desenvolvedores via issues do GitHub.
 
 Vagas disponíveis em https://github.com/CocoaHeadsBrasil/vagas/issues
 
+Você também pode [pesquisar e filtrar as vagas deste repositório no openings.dev](https://openings.dev/communities/CocoaHeadsBrasil/vagas). Cada resultado leva à issue original, com os detalhes atualizados e as instruções para candidatura.
+
 ### Cadastrando uma vaga
 
 Adicione uma **issue** utilizando o template oferecido na descrição. No título, coloque o nome da cidade entre colchetes, seguida do nome da vaga.
